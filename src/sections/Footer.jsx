@@ -2,9 +2,15 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>
-      footer
-    </div>
+    <footer className='max-container'>
+      <div className='flex justify-between items-start gap-20 flex-wrap lg:flex-col '>
+        <div>
+          
+        </div>
+
+      </div>
+
+    </footer>
   )
 }
 

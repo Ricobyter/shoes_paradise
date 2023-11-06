@@ -20,6 +20,7 @@ const SuperQuality = () => {
         <img src={shoe8} alt="shoe" width={570} height={525} className="object-contain "/>
 
       </div>
+      
     </section>
   )
 }
